@@ -29,6 +29,7 @@ public class TestMain4_nonSpring {
 		 while(it.hasNext()){
 			 String k = it.next();
 			 System.out.println(map2.get(k));
+		 // 새로운정보
 		 }
 		 
 	}
